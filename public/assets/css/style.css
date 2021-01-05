@@ -1,0 +1,17 @@
+body {
+    background-color: #cecece;
+}
+
+.nav {
+    background-color: aqua;
+}
+
+.header, .header a {
+    background-color: rgb(34, 0, 66);
+    color: #fff;
+}
+
+.footer {
+    background-color: #161616;
+    color: #fff;
+}

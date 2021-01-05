@@ -1,0 +1,17 @@
+{
+    "name": "oparango/fortnite-api",
+    "description": "FortniteAPI",
+    "authors": [
+        {
+            "name": "Rafael Fernandes",
+            "email": "ctt.rafaelfernandes@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "../app/",
+            "Fortnite\\": "../src/fortnite/"
+        }
+    }
+}
