@@ -4,6 +4,6 @@ Projeto pessoal em PHP OO para exibir estastísticas do game Fortnite, por exemp
 
 -----------------------------------------------------------
 
-Adicionar Rota em /ClassRouter.php
-Criar arquivo no /Controller ex: LoginController.php
-Criar arquivo no /Model ex: ClassLogin.php
+. Adicionar Rota em /ClassRouter.php
+. Criar arquivo no /Controller ex: LoginController.php
+. Criar arquivo no /Model ex: ClassLogin.php
